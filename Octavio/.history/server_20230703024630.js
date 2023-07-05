@@ -24,7 +24,6 @@ io.on('connection', (socket) => {
   });
 });
 
-
 // Iniciar el servidor
 const port = 3033;
 server.listen(port, () => {
